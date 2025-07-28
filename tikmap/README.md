@@ -1,4 +1,5 @@
 TikMap Challenge in 2 DAYS
+
 A web application that offers an enhanced social media browsing and travel planning experience. It lets users view and drop TikTok pins on a map that are arranged according to categories like travel, food, and more. Whether you're discovering new places or building your own travel itinerary, TikMap makes it easy to explore locations through real user-generated TikTok content.
 
 Tech Stack
@@ -10,7 +11,7 @@ HTML,CSS3
 
 Backend:
 Supabase(PostgreSQL, AUth, Realtime Database)
-RESTful APIE for pin and category storage
+RESTful API for pin and category storage
 
 Key Features:
 - Pinning Tiktok links onto Google Map
