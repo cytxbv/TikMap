@@ -7,6 +7,7 @@ import AddPinForm from './components/AddPinForm';
 import { Category } from './types';
 import { supabase } from './supabaseClient';
 
+
 const App: React.FC = () => {
   //ref to googlemaps once it is initialised in mapView
   const [map, setMap] = useState<google.maps.Map | null>(null);
@@ -72,6 +73,8 @@ useEffect(() => {
   onAddCategory={handleAddCategory}
   selectedCategory={selectedCategory}
   onCategoryChange={setSelectedCategory}
+  pins={pins}
+
 />
 
       <div style={{ flex: 1, position: 'relative' }}>
@@ -90,9 +93,6 @@ useEffect(() => {
   selectedCategory={selectedCategory}
   pins={pins}
 />
-
-
-
 
 
       </div>
