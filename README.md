@@ -38,3 +38,5 @@ Room for Improvements:
 - Auto-refresh pin data
 - Enhanced functionality (eg. Edit/delete tiktok pins, View pins in list view)
 
+Video Prototype:
+https://youtu.be/cAHTh3CWGYY
