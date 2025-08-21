@@ -1,4 +1,4 @@
-TikMap Challenge in 2 DAYS
+TikMap Website
 
 A web application that offers an enhanced social media browsing and travel planning experience. It lets users view and drop TikTok pins on a map that are arranged according to categories like travel, food, and more. Whether you're discovering new places or building your own travel itinerary, TikMap makes it easy to explore locations through real user-generated TikTok content.
 
